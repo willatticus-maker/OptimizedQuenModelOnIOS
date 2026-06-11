@@ -1,0 +1,13 @@
+# 1. Ignore the massive Qwen model folder completely
+# (Replace 'qwen_folder_name' with your actual model folder name)
+QwenOptimized/
+
+# 2. Ignore standard junk files
+.DS_Store
+UserInterfaceState.xcuserstate
+
+# 3. Ignore user-specific personal Xcode tracking
+xcuserdata/
+
+
+
